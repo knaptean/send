@@ -1,6 +1,7 @@
 # send
+```
 - Add Tax planning to the budget
-- ```mermaid
+- \`\`\`mermaid
   erDiagram
   
   USER {
@@ -98,7 +99,7 @@
   BUDGETFLOW }o--|| FUND: fund
   
   EXPENSECATEGORY }o--|| FUND: fund
-  ```
+  \`\`\`
 -
 - ## Income
 	- ### Income Record
@@ -137,3 +138,5 @@
 		- **Tags**: Tags like `Avoidable`, `To reduce`, `Unplanned` or `Emergency`
 	- ## [[Text editor]]
 -
+```
+```
